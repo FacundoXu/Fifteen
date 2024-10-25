@@ -1,3 +1,1 @@
-# Fundamentos de Programación - Curso Essaya - 1C2022
-
-Trabajo Práctico 1 basado en el juego Fifteen.
+Basado en el juego puzzle [Fifteen](https://en.wikipedia.org/wiki/15_puzzle).
